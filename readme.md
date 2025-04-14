@@ -162,5 +162,3 @@ terraform.tfstate.backup
 - Email: michaeloppong731@gmail.com
 - GitHub: MichaelOppong731
 
-
->>>>>>> 97677b7 (added state files)
